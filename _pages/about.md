@@ -1,9 +1,6 @@
 ---
-permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
 ---
 
 I completed my undergraduate degree in Natural Resource Management with a concentration in Fisheries and Aquatic Biology at Texas Tech University in Lubbock, TX. While at TTU, I worked with [Dr. Allison Pease](https://cafnr.missouri.edu/person/allison-pease/) and Dr. Kelbi Delaune on the Pecos River studying macroinvertebrate communities.
