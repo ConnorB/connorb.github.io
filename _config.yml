@@ -86,7 +86,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "/about/"
+      path: ""
       type: posts
     values:
       layout: single
