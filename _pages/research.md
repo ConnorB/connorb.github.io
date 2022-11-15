@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: “Research”
+title: "Research"
 ---
 I'm an aquatic ecosystem ecologist. My research interest include understanding how abiotic and biotic drivers effect stream ecosystems.
 
