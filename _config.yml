@@ -60,6 +60,7 @@ author:
   name   : "Connor Brown"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Aquatic ecologist and Ph.D. student studying intermittent streams."
+  location : "Lawrence, KS"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
