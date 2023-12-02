@@ -1,8 +1,8 @@
 ---
-permalink: /pubs/
-title: "Publications"
+permalink: /presentations/
+title: "Presentations"
 ---
-**Brown, C.L.**, Burgin, A.J., Seybold, E.C., 2023. * Flow variability drives changes in the oxygen regime of a non-perennial prairie stream*. Kansas Governor's Water Conference, Manhattan, KS.
+**Brown, C.L.**, Burgin, A.J., Seybold, E.C., 2023. *Flow variability drives changes in the oxygen regime of a non-perennial prairie stream*. Kansas Governor's Water Conference, Manhattan, KS.
  
 **Brown, C.L.**, Wheeler, C.T., Speir, S.L., Allen, D.C., Benstead, J.P., Burgin, A.J., Hale, R.L., Seybold, E.C., 2022. *Duration of drying controls the magnitude and recovery of ecosystem metabolism in U.S. intermittent streams*. Kansas Governor's Water Conference, Manhattan, KS.
 
