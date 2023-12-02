@@ -71,7 +71,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/conbro_"
-
+    - label: "Bluesky"
+      icon: "fab fa-solid fa-square"
+      url: "https://bsky.app/profile/connorbrown.bsky.social"
 footer:
   links:
     - label: "Twitter"
@@ -83,6 +85,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/conbro_"
+    - label: "Bluesky"
+      icon: "fab fa-solid fa-square"
+      url: "https://bsky.app/profile/connorbrown.bsky.social"
 
 defaults:
   # _news
