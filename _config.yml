@@ -18,7 +18,7 @@ email: connor.brown@ku.edu
 description: >- # Ph.D. student the Kansas Geological Survey
 twitter_username: eco_conn
 github_username: ConnorB
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
