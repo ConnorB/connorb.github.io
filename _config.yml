@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Connor Brown
 email: connor.brown@ku.edu
-description: >- # Ph.D. student the Kansas Geological Survey
+description: >- # Ph.D. candidate the Kansas Geological Survey
 twitter_username: eco_conn
 github_username: ConnorB
 minimal_mistakes_skin: dark
@@ -59,7 +59,7 @@ remote_theme: mmistakes/minimal-mistakes
 author:
   name   : "Connor Brown"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Aquatic ecologist and Ph.D. student studying intermittent streams."
+  bio    : "Aquatic ecologist and Ph.D. candidate studying intermittent streams."
   location : "Lawrence, KS"
   links:
     - label: "Twitter"
